@@ -25,20 +25,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rarer1230&theme=github_dark&utcOffset=5" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rarer1230&theme=github_dark" />
 
----
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rarer1230&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/rarer1230/YOUR_REPO_NAME)
-
----
 
 <img src="https://github-profile-trophy.vercel.app/?username=rarer1230&theme=matrix&no-frame=true&row=1&column=7" />
 <img src="https://github-metrics.vercel.app/api/habits?username=rarer1230&config.timezone=Asia%2FKarachi&theme=dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rarer1230&theme=github_dark&utcOffset=+5" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-topic?username=rarer1230&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api/gist?username=rarer1230&theme=github_dark&show_icons=true" />
-<details>
-  <summary>📈 View Advanced GitHub Stats</summary>
-  
-  <!-- Insert widgets here -->
 
-</details>
